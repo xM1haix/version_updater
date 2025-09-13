@@ -92,3 +92,5 @@ linter:
     - use_string_buffers
     - use_to_and_as_if_applicable
     - use_truncating_division
+    - public_member_api_docs
+    
